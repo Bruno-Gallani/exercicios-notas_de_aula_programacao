@@ -1,3 +1,8 @@
+''' 
+Este arquivo contém o projeto final que foi realizado em grupo
+durante as aulas da disciplina "processamento da informação".
+'''
+# Autores: Bruno Gallani e Guilherme Martins
 # Importação das bibliotecas que vão ser utilizadas ao longo do programa
 import pandas as pd
 import numpy as np
