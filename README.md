@@ -3,7 +3,7 @@ Neste repositório você pode encontrar todos os exercícios e cursos de program
 ---
 Os arquivos estão categorizados e separados em diferentes diretórios:
 <!-- Primeiro tópico -->
-1. <a href="https://github.com/Bruno-Gallani/exercicios_programacao/tree/main/UFABC" target="_blank">Exercícios realizados/notas de aula de disciplinas da UFABC</a>
+1. <a href="https://github.com/Bruno-Gallani/exercicios_programacao/tree/main/UFABC" target="_blank">Exercícios/notas de aula de disciplinas da UFABC</a>
 
 <!-- Segundo tópico -->
 <details>
