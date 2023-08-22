@@ -1,4 +1,4 @@
-Neste repositório você pode encontrar todos os exercícios de programação que já realizei, bem como visualizar notas de aula de disciplinas da UFABC.
+Neste repositório você pode encontrar todos os exercícios e cursos de programação que já realizei, bem como visualizar notas de aula de disciplinas da UFABC.
 
 ---
 Os arquivos estão categorizados e separados em diferentes diretórios:
