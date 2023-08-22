@@ -6,7 +6,7 @@ Os arquivos estão categorizados e separados em diferentes diretórios:
 
 2. <a href="https://github.com/Bruno-Gallani/exercicios_cursos_anotacoes/tree/main/exercicios/livres" target="_blank">Exercícios livres</a>
 <details>
-<summary>3. <b>Cursos</b></summary>
+<summary>3. Cursos</summary>
   
   <details>
     <summary>3.1. Coursera</summary>
@@ -15,7 +15,7 @@ Os arquivos estão categorizados e separados em diferentes diretórios:
   <details>
     <summary>3.2. Bootcamps</summary>
     <details>
-      <summary><b>DIO</b></summary>
+      <summary>DIO</summary>
       <details>
         <summary>Santander</summary>
           • <a href="https://github.com/Bruno-Gallani/exercicios_cursos_anotacoes/tree/main/cursos/DIO%20-%20Bootcamps/Santander%20-%20Ci%C3%AAncia%20de%20Dados%20com%20Python%20(2023)" target="_blank">Ciência de dados com Python</a>
