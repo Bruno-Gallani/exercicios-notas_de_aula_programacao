@@ -9,7 +9,7 @@ Os arquivos estão categorizados e separados em diferentes diretórios:
 <details>
   <summary>2. Exercícios</summary> <br>
   • <a href="https://github.com/Bruno-Gallani/exercicios_cursos_anotacoes/tree/main/exercicios/livres" target="_blank">Livres</a> <br>
-  • <a href="https://github.com/Bruno-Gallani/exercicios_cursos_anotacoes/tree/main/exercicios/beecrowd" target="_blank">Beecrowd</a> :construction: <br>
+  • <a href="https://github.com/Bruno-Gallani/exercicios_cursos_anotacoes/tree/main/exercicios/beecrowd" target="_blank">Beecrowd</a> <br>
   • <a href="https://github.com/Bruno-Gallani/exercicios_cursos_anotacoes/tree/main/exercicios/leetcode" target="_blank">Leetcode</a> :construction:
 </details>
 
