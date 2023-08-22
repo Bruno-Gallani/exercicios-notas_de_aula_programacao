@@ -2,5 +2,23 @@ Neste repositório você pode encontrar todos os exercícios e cursos de program
 
 ---
 Os arquivos estão categorizados e separados em diferentes diretórios:
-1.  <a href="https://github.com/Bruno-Gallani/exercicios_programacao/tree/main/UFABC" target="_blank">Exercícios realizados/notas de aula de disciplinas da UFABC</a>
+1. <a href="https://github.com/Bruno-Gallani/exercicios_programacao/tree/main/UFABC" target="_blank">Exercícios realizados/notas de aula de disciplinas da UFABC</a>
+
 2. <a href="https://github.com/Bruno-Gallani/exercicios_cursos_anotacoes/tree/main/exercicios/livres" target="_blank">Exercícios livres</a>
+<details>
+<summary>3. <b>Cursos</b></summary>
+  
+  <details>
+    <summary>3.1. Coursera</summary>
+      • <a href="https://github.com/Bruno-Gallani/exercicios_cursos_anotacoes/tree/main/cursos/Coursera/Introdu%C3%A7%C3%A3o%20%C3%A0%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20(parte%201)" target="_blank">Introdução à Ciência da Computação (parte 1)</a>
+  </details>
+  <details>
+    <summary>3.2. Bootcamps</summary>
+    <details>
+      <summary><b>DIO</b></summary>
+      <details>
+        <summary>Santander</summary>
+          • <a href="https://github.com/Bruno-Gallani/exercicios_cursos_anotacoes/tree/main/cursos/DIO%20-%20Bootcamps/Santander%20-%20Ci%C3%AAncia%20de%20Dados%20com%20Python%20(2023)" target="_blank">Ciência de dados com Python</a>
+      </details>
+    </details>
+</details>
