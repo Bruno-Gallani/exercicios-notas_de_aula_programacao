@@ -54,9 +54,10 @@ Ao término do curso, o aluno estará capacitado para escrever pequenos programa
     <p>
 O curso de <a href = 'https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2'>Introdução à Ciência da Computação (parte 2)</a> é destinado aos alunos regulares da Universidade de São Paulo e a todos os demais interessados em aprender não só a programar em Python mas também os conceitos básicos da Ciência da Computação!
           
-O objetivo principal do curso é desenvolver o raciocínio aplicado à formulação e resolução de problemas computacionais.
+O objetivo principal do curso é desenvolver o raciocínio aplicado na formulação e resolução de problemas computacionais, ensinar como abordar e resolver problemas computacionais.
 
-Ao término do curso, o aluno estará capacitado para escrever pequenos programas em Python e prosseguir para a parte 2 do curso. </p>
+
+Ao término do curso, o aluno estará capacitado para escrever pequenos programas em Python e a continuar com estudos mais avançados sobre Python por conta própria usando material disponível na Web. </p>
       </details>
   </details>
 
