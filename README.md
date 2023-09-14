@@ -45,7 +45,7 @@ Ao término do curso, o aluno estará capacitado para escrever pequenos programa
     </summary>
   <br>
     <div>
-      <a href = 'https://www.coursera.org/learn/ciencia-computacao-python-conceitos'>
+      <a href = 'https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2'>
         <img src = 'https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white' />
       </a>
     </div>
