@@ -19,9 +19,45 @@ Os arquivos estão categorizados e separados em diferentes diretórios:
 <details>
 <summary>3. Cursos</summary> <br>
   <details>
-    <summary>3.1. Coursera</summary>
-      • <a href="https://github.com/Bruno-Gallani/exercicios_cursos_anotacoes/tree/main/cursos/Coursera/Introdu%C3%A7%C3%A3o%20%C3%A0%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20(parte%201)" target="_blank">Introdução à Ciência da Computação (parte 1)</a>
+    <summary>3.1. Coursera</summary> <br>
+      <details>
+        <summary>
+          <a href="https://github.com/Bruno-Gallani/exercicios_cursos_anotacoes/tree/main/cursos/Coursera/Introdu%C3%A7%C3%A3o%20%C3%A0%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20(parte%201)" target="_blank">Introdução à Ciência da Computação (parte 1)</a>
+        </summary>
+        <br>
+        <div>
+          <a href = 'https://www.coursera.org/learn/ciencia-computacao-python-conceitos'>
+            <img src = 'https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white' />
+          </a>
+        </div>
+        <p>
+O curso de <a href = 'https://www.coursera.org/learn/ciencia-computacao-python-conceitos'>Introdução à Ciência da Computação (parte 1)</a> é destinado aos alunos regulares da Universidade de São Paulo e a todos os demais interessados em aprender não só a programar em Python mas também os conceitos básicos da Ciência da Computação!
+          
+O objetivo principal do curso é desenvolver o raciocínio aplicado à formulação e resolução de problemas computacionais.
+
+Ao término do curso, o aluno estará capacitado para escrever pequenos programas em Python e prosseguir para a parte 2 do curso. 
+</p>
+</details>
+
+  <details>
+    <summary>
+      <a href="https://github.com/Bruno-Gallani/exercicios_cursos_anotacoes/tree/main/cursos/Coursera/Introdu%C3%A7%C3%A3o%20%C3%A0%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20(parte%202)" target="_blank">Introdução à Ciência da Computação (parte 2)</a>
+    </summary>
+  <br>
+    <div>
+      <a href = 'https://www.coursera.org/learn/ciencia-computacao-python-conceitos'>
+        <img src = 'https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white' />
+      </a>
+    </div>
+    <p>
+O curso de <a href = 'https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2'>Introdução à Ciência da Computação (parte 2)</a> é destinado aos alunos regulares da Universidade de São Paulo e a todos os demais interessados em aprender não só a programar em Python mas também os conceitos básicos da Ciência da Computação!
+          
+O objetivo principal do curso é desenvolver o raciocínio aplicado à formulação e resolução de problemas computacionais.
+
+Ao término do curso, o aluno estará capacitado para escrever pequenos programas em Python e prosseguir para a parte 2 do curso. </p>
+      </details>
   </details>
+
   <details>
     <summary>3.2. Bootcamps</summary>
     <details>
